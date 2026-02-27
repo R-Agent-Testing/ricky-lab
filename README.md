@@ -17,3 +17,18 @@ Commits findings:
 1. Last commit:
 2. Example commit message:
 3. Active/trustworthy? Why:
+
+## Repo Map
+- README.md: Project overview + how to run
+- learning_log.md: Daily learning notes
+- .gitignore: Files Git should ignore (cache, venv, etc.)
+- src/: Python code
+- hello.py: Hello test script
+- math_tools.py: Prime/GCD/LCM menu tool
+- docs/: Notes and explanations (this will grow over time)
+## Quick Start (Windows)
+python src\math_tools.py
+
+Making an ai agent
+
+Don't give ai confidential innformation
